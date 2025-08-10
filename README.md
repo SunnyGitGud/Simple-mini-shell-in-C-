@@ -1,6 +1,7 @@
 # Simple Shell in C++
 
 A Unix shell implementation written in C++ that supports command execution, pipes, I/O redirection, background processes, and built-in commands.
+source https://medium.com/@WinnieNgina/guide-to-code-a-simple-shell-in-c-bd4a3a4c41cd
 
 ## Features
 
